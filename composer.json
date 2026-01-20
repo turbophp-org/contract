@@ -1,6 +1,6 @@
 {
   "name": "turbophp-org/contract",
-  "description": "The contracts of TurboPHP framework.",
+  "description": "TurboPHP 框架核心接口规范库，用于定义统一契约和服务约束。",
   "license": "Apache-2.0",
   "keywords": [
     "php",
